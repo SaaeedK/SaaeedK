@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaaeedKhan
 - 👀 I’m interested in Software Engineering Intern roles
-- 🌱 I’m currently doing Undergrad in Computer Science
+- 🌱 I’m currently doing Undergrad in Information Technology
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me on my LinkedIn
 - https://www.linkedin.com/in/saaeed-khan/
